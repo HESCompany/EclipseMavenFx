@@ -1,5 +1,5 @@
 porto\java\PortoJava\Main.class
+module-info.class
 porto\java\PortoJava\App.class
-porto\java\PortoJava\Connect.class
 porto\java\PortoJava\SecondaryController.class
 porto\java\PortoJava\PrimaryController.class
